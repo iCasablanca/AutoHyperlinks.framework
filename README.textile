@@ -1,0 +1,38 @@
+h1. AutoHyperlinks framework
+
+AutoHyperlinks is a Cocoa framework that handles the detection of hyperlinks in normal language, leaving you, the developer, free to concentrate on the core functionality of your application. AutoHyperlinks is the framework used by Adium to scan for URLs in strings and other text containers. This repository is my personal fork, it's aimed to be a lightweight version with an improved codebase, Garbage Collection and no additional build targets. I initially created this fork to bundle a contemporary optimized variant of AutoHyperlinks with my app 'Ascension'. AutoHyperlinks gives you a framework with a flex based lexer and two Objective-C classes in it: AHMarkedHyperlink and AHHyperlinkScanner. Together, these two classes can work together to identify and add the NSLinkAttributeNames, or you can simply gather all the links strings and do whatever you want with them.
+
+h2. Features of this fork
+
+* Garbage Collection enabled
+* Improved codebase, no retain code
+* Mac OS X 10.6+ base SDK
+* Intel 64-bit leightweight variant (119 KB)
+* LLVM compiled binary
+
+h2. How do I use it?
+
+Please refer to the "AutoHyperlinks documentation":http://trac.adium.im/wiki/AutoHyperlinksFramework provided by the Adium project. 
+
+h2. Credits
+
+AutoHyperlinks Framework
+Copyright (c) 2010, forked by Stefan Vogt.
+"http://byteproject.net":http://byteproject.net
+
+Originally developed by the following:
+
+* Colin Barrett
+* Graham Booker
+* Jorge Salvador Caffarena
+* Evan Schoenberg
+* Augie Fackler
+* Stephen Holt
+* Peter Hosey
+* Adam Iser
+* Jeffrey Melloy
+* Toby Peterson
+* Eric Richie
+* David Smith
+
+Copyright (c) 2004-2008 the Adium team.

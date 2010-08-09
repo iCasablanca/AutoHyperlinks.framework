@@ -1,0 +1,36 @@
+################################################
+# AutoHyperlinks Framework detection scheme
+################################################
+
+# Basic URLs:
+example.com | www.example.com | ftp.example.com
+
+# URLs with paths:
+www.example.com/foo | example.com/foo/bar.php
+
+# Basic URIs:
+http://example.com/ | http://www.example.com/ | ftp://example.com
+
+# URI's with paths:
+http://www.example.com/foo/bar.php | ftp://example.com/foo/bar.php
+
+# URIs with user/pass:
+http://user:pass@www.example.com | ftp://user:pass@example.com 
+
+# IP Addresses:
+http://123.12.123.1 | ftp://123.12.12.1
+
+# IPv6 URIs
+# Examples adapted from http://www.ietf.org/rfc/rfc2732.txt
+http://[FEDC:BA98:7654:3210:FEDC:BA98:7654:3210]
+http://[1080:0:0:0:8:800:200C:417A]
+http://[3ffe:2a00:100:7031::1]
+http://[1080::8:800:200C:417A]
+http://[::192.9.5.5]
+http://[::FFFF:129.144.52.38]
+http://[2010:836B:4179::836B:4179]
+http://[::1]
+
+# Email addresses:
+foo@example.com
+foo.bar@example.com

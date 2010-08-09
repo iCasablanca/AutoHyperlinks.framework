@@ -1,0 +1,30 @@
+/*
+ * AutoHyperlinks framework
+ * Copyright (c) 2010, forked by Stefan Vogt.
+ * http://www.byteproject.net
+ * 
+ * Features of this fork:
+ *	# Garbage Collection enabled
+ *	# Improved codebase, no retain code
+ *	# Mac OS X 10.6+ base SDK
+ *	# Intel 64-bit leightweight variant (119 KB)
+ *  # LLVM compiled binary
+ *
+ * Originally developed by the following:
+ *
+ * Colin Barrett
+ * Graham Booker
+ * Jorge Salvador Caffarena
+ * Evan Schoenberg
+ * Augie Fackler
+ * Stephen Holt
+ * Peter Hosey
+ * Adam Iser
+ * Jeffrey Melloy
+ * Toby Peterson
+ * Eric Richie
+ * David Smith
+ *
+ * Copyright (c) 2004-2008 the Adium team.
+ *
+ */
