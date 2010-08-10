@@ -8,7 +8,7 @@
  *	# Improved codebase, no retain code
  *	# Mac OS X 10.6+ base SDK
  *	# Intel 64-bit leightweight variant (119 KB)
- *  # LLVM compiled binary
+ *  # Clang / LLVM compiled binary
  *
  * Originally developed by the following:
  *
