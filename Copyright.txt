@@ -1,13 +1,13 @@
 /*
  * AutoHyperlinks framework
- * Copyright (c) 2010, forked by Stefan Vogt.
+ * Copyright (c) 2011, forked by Stefan Vogt.
  * http://www.byteproject.net
  * 
  * Features of this fork:
  *	# Garbage Collection enabled
  *	# Improved codebase, no retain code
  *	# Mac OS X 10.6+ base SDK
- *	# Intel 64-bit leightweight variant (119 KB)
+ *	# Intel 32 / 64-bit leightweight variant
  *  # Clang / LLVM compiled binary
  *
  * Originally developed by the following:

@@ -2,7 +2,7 @@
  * The AutoHyperlinks framework is the legal property of its developers, whose 
  * names are listed in the copyright file included with this source distribution.
  *
- * Copyright (c) 2004-2010, all rights reserved.
+ * Copyright (c) 2004-2011, all rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without modiﬁcation, 
  * are permitted provided that the following conditions are met: 
